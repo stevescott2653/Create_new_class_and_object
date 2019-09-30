@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\obj\Debug\Create_new_class_and_object.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\obj\Debug\Create_new_class_and_object.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\bin\Debug\Create_new_class_and_object.exe.config
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\bin\Debug\Create_new_class_and_object.exe
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\bin\Debug\Create_new_class_and_object.pdb
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\obj\Debug\Create_new_class_and_object.exe
+D:\DEV\C#\Practice\Create_new_class_and_object\Create_new_class_and_object\obj\Debug\Create_new_class_and_object.pdb
